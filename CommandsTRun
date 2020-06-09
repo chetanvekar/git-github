@@ -11,6 +11,22 @@
  226  git add README.md
   227  git status
  226  git add -A//to add all files 
- git commit -a //to commit all files
   227  git status
   git log
+  246  git commit -a -m "All 3 files together"
+  247  git status
+  248  git branch firstbranch
+  249  git ls
+  250  git checkout firstbranch
+  251  vi newFile4
+  252  git add newFile4
+  253  git commit -m "changes in firstbranch"
+  254  git status
+  255  ls
+  256  git checkout master // always be in the destination branch to do merge
+  257  ls
+  258  git merge firstbranch
+  259  ls
+  260  git checkout firstbranch
+  261  vi newFile4
+  262  git status
