@@ -10,3 +10,7 @@
   227  git status
  226  git add README.md
   227  git status
+ 226  git add -A//to add all files 
+ git commit -a //to commit all files
+  227  git status
+  git log
