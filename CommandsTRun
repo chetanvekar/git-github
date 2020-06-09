@@ -34,7 +34,7 @@
   299  ls
   300  git log
   301  ssh-keygen
-  304  cat /c/Users/srame/.ssh/id_rsa.pub
+  304  cat .ssh/id_rsa.pub
   305  ssh -T git@github.com
   308  git checkout firstbranch
   309  git push origin firstbranch
