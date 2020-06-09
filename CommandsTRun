@@ -1,0 +1,12 @@
+  208  ls
+  209  mkdir git_practice
+  210  cd git_practice/
+  211  git init
+  212  ls -altr
+  213  ls .git/
+  214  git remote add origin "https://github.com//git-github.git"
+  215  git pull origin master
+  226  git add README.md
+  227  git status
+ 226  git add README.md
+  227  git status
