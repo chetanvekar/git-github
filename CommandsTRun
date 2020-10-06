@@ -30,7 +30,7 @@
   260  git checkout firstbranch
   261  vi newFile4
   262  git status
- 298  git rebase firstbranch
+ 298  git rebase master
   299  ls
   300  git log
   301  ssh-keygen
